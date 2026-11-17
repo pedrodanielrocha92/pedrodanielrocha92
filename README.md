@@ -1,24 +1,14 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my PhD
-- 🌱 I’m currently learning CV and ML
-- 👯 I’m looking to collaborate on Scientific Publications
-- 🤔 I’m looking for help with Apps Development
-- 💬 Ask me about Data Centric Learning
-- 📫 How to reach me: pedrodanielrocha92@gmail.com
+Computer Vision researcher at the [Instituto de Telecomunicações](https://www.it.pt/) and PhD candidate at the [University of Coimbra](https://www.uc.pt/), Portugal — I build deep learning systems that inspect electrical grid assets from UAV imagery, from dataset to embedded deployment.
 
-  
-<!--
-**pedrodanielrocha92/pedrodanielrocha92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working on supervision-aware annotation pipelines and multimodal dataset construction
+- 🌱 I'm currently learning about self-supervised models and spectral graph theory
+- 👯 I'm looking to collaborate on active learning and data cleaning strategies
+- 🤔 I'm looking for help with UI/UX design for annotation tools (multimodal and active learning workflows)
+- 💬 Ask me about annotation quality, data-centric learning, and computer vision for industrial inspection
+- 📫 How to reach me: [pedrodanielrocha92@gmail.com](mailto:pedrodanielrocha92@gmail.com)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: over a decade on the factory floor before the PhD
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 [Academic homepage](https://pedrodanielrocha92.github.io/) · 🔗 [LinkedIn](https://www.linkedin.com/in/pedrodanielrocha/) · [Google Scholar](https://scholar.google.com/citations?user=o2Ggia8AAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Pedro-Daniel-Rocha) · [ORCID](https://orcid.org/0009-0004-8184-7779) · [Kaggle](https://www.kaggle.com/pedrodanielrocha) · [Hugging Face](https://huggingface.co/PedroDanielRocha)
